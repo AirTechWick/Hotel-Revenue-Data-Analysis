@@ -8,6 +8,7 @@ In this project I did the following:
 4. Visualize Data in Power BI
 
 Stakeholder Requirements:
+
 "Is our hotel revenue growing by year?"
 
 "Should we increase our parking lot size?"
